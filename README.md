@@ -1,7 +1,7 @@
 
 # 📊 MarketLens – Customer Demographics & Campaign Insights  
 
-## 🧠 Project by: Rohit Sharma  
+## 🧠 Project by: Rohit Sharma
 
 ---
 
@@ -66,13 +66,13 @@ We analyzed customer data with a focus on:
 ## 📊 EDA  
 
 ### 👤📊 Spending by Age Group  
-![Spending by Age Group](./Images/spending_by_age_group.png)  
+![Spending by Age Group](Visualizations/BarGraph1.jpg) 
 
-### 📈 Campaign Responsiveness by Income  
-![Campaign Responsiveness by Income](./Images/campaign_responsiveness_by_income.png)  
+### 📈 Spending by Education Level 
+![Campaign Responsiveness by Income](Visualizations/BarGraph3.jpg)  
 
-### 🎯 Campaign Effectiveness Comparison  
-![Campaign Effectiveness](./Images/campaign_effectiveness.png)  
+### 🎯 Campaign Response Rate by Education Level  
+![Campaign Effectiveness](Visualizations/BarGraph4.jpg)  
 
 ---
 
@@ -124,6 +124,6 @@ This project highlighted the importance of customer segmentation and campaign de
 
 ## 🗂️ SQL Analysis File  
 
-📄 [`SQL Analysis File.sql`](./SQL/Sql%20Analysis%20File.sql)  
+📄 [`SQL Analysis File.sql`](Analysis_with_SQL.sql)
 
 ---
